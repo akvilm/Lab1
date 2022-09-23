@@ -26,4 +26,6 @@ public class MainActivity extends AppCompatActivity {
     public void onBtnChangeTextColorClick(View view) {
         tvMain.setTextColor(Color.BLUE);
     }
+
+    ///Some new changes that we do not need
 }
