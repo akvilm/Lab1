@@ -27,5 +27,5 @@ public class MainActivity extends AppCompatActivity {
         tvMain.setTextColor(Color.BLUE);
     }
 
-    ///Some new changes that we do not need
+    ///Some changes that we do not need part 2 :)
 }
